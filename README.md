@@ -13,3 +13,7 @@ Recently I've taken interest in learning Lua and the PICO-8 engine. Here I'll po
 ### **Prototype III - Flash** <br>
 **Play** the game in your browser over on [Itch.io](https://actuallykron.itch.io/flash-pico-8)<br>
 **Download** the PICO-8 catridge on [Itch.io](https://actuallykron.itch.io/flash-pico-8) or right here on [GitHub](https://github.com/actuallyKron/pico8-prototypes/tree/main/prototype_3_source) 
+<br>
+### **Prototype IV - PewPew** <br>
+**Play** the game in your browser over on [Itch.io](https://actuallykron.itch.io/pewpew-pico-8)<br>
+**Download** the PICO-8 catridge on [Itch.io](https://actuallykron.itch.io/pewepew-pico-8) or right here on [GitHub](https://github.com/actuallyKron/pico8-prototypes/tree/main/prototype_4_source) 
